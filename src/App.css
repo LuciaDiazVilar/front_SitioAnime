@@ -1,0 +1,8 @@
+body {
+  font-family: 'Ysabeau', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  background-image: url(../public/Imagenes/BG.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
